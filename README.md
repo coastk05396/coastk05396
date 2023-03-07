@@ -1,4 +1,13 @@
-### Hi there 👋
+![Design and Development](github-banner.png)
+
+<h1 align="center">Hi 👋, I'm Rick Chen</h1>
+<h3 align="center">A passionate Software Developer from Taiwan</h3>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coastk05396&label=Profile%20views&color=0e75b6&style=flat" alt="coastk05396" /> </p>
+
+<p align="left"> <a href="https://twitter.com/rickc_chen" target="blank"><img src="https://img.shields.io/twitter/follow/rickc_chen?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
+
 
 <!--
 **coastk05396/coastk05396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
