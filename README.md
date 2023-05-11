@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/rickc_chen" target="blank"><img src="https://img.shields.io/twitter/follow/rickc_chen?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
 
-- 🔭 I’m currently working on **Python App**
+- 🔭 I’m currently working on **DevOps & Python App**
 
 - 🌱 I’m currently learning **Backend & Frontend**
 
-- 💬 Ask me about **Web , Python**
+- 💬 Ask me about **DevOps , Python**
 
 - 📫 How to reach me **coastk05396@gmail.com**
 
