@@ -1,7 +1,7 @@
 ![Design and Development](github-banner.png)
 
 <h1 align="center">Hi 👋, I'm Rick Chen</h1>
-<h3 align="center">A passionate Software Developer from Taiwan</h3>
+<h3 align="center">A passionate DevOps Engineer from Taiwan</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coastk05396&label=Profile%20views&color=0e75b6&style=flat" alt="coastk05396" /> </p>
